@@ -1,1 +1,1 @@
-# automatic recignition of medicinal pants using machine learning
+# automatic recognition of medicinal pants using machine learning
